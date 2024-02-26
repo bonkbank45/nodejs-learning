@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= pageTitle %></title>
+  </head>
+  <body>
+    <main>
+      <% if (members.length > 0) { %>
+      <h1>Our Member 😊</h1>
+      <ul>
+        <% for (let user of members) { %>
+        <li><%= user.title %></li>
+        <% } %>
+      </ul>
+      <% } else { %>
+      <h1>Home's Page</h1>
+      <% } %>
+    </main>
+  </body>
+</html>

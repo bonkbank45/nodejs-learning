@@ -1,0 +1,13 @@
+.product__title {
+  text-align: center;
+}
+
+.product__price {
+  text-align: center;
+}
+
+.product__description {
+  text-align: center;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
