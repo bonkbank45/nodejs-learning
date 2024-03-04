@@ -1,0 +1,16 @@
+[
+  {
+    "title": "The Book 1",
+    "imageUrl": "https://images.unsplash.com/photo-1516414447565-b14be0adf13e?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A really cool book.",
+    "price": "19.99",
+    "id": "0.5652695080566514"
+  },
+  {
+    "title": "The Book 2",
+    "imageUrl": "https://images.unsplash.com/photo-1526894826544-0f81b0a5796d?q=80&w=874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "closed white book beside green leaf plant\r\nCreative Confidence",
+    "price": "89.99",
+    "id": "0.39742924606538055"
+  }
+]
